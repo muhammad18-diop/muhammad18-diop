@@ -1,4 +1,6 @@
-## Hi there 👋
+Salut, moi c'est Mouhamed Diop
+Développeur web passionné par la création d’applications modernes et performantes.
+Je travaille principalement avec JavaScript, Node.js et Express.js  pour développer des applications web complètes, du backend au frontend.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nabi_diop_) 
