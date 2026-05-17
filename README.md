@@ -5,6 +5,14 @@ Salut, moi c'est Mouhamed Diop
 Développeur web passionné par la création d’applications modernes et performantes.
 Je travaille principalement avec JavaScript, Node.js et Express.js  pour développer des applications web complètes, du backend au frontend.
 
+- 🔭 Je travaille actuellement sur des projets web avec node js et express
+- 🌱 J'apprend actuellement le développement backend avancé 
+- 👯 Je cherche à collaborer sur des projets web modernes
+- 🤔 Disponible pour echanger sur javascript et les API REST
+- 💬 Pose moi des questions sur Javascript et Express.js
+- 📫 Contact: nabidiop18@gmail.com
+- ⚡ Objectif: Devenir développeur full-stack confirmé
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nabi_diop_) 
 
@@ -24,11 +32,5 @@ Je travaille principalement avec JavaScript, Node.js et Express.js  pour dévelo
 
 Here are some ideas to get you started:
 
-- 🔭 Je travaille actuellement sur des projets web avec node js et express
-- 🌱 J'apprend actuellement le développement backend avancé 
-- 👯 Je cherche à collaborer sur des projets web modernes
-- 🤔 Disponible pour echanger sur javascript et les API REST
-- 💬 Pose moi des questions sur Javascript et Express.js
-- 📫 Contact: nabidiop18@gmail.com
-- ⚡ Objectif: Devenir développeur full-stack confirmé
+
 
