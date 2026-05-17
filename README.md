@@ -6,7 +6,7 @@ Développeur web passionné par la création d’applications modernes et perfor
 Je travaille principalement avec JavaScript, Node.js et Express.js  pour développer des applications web complètes, du backend au frontend.
 
 -  Je travaille actuellement sur des projets web avec node js et express
--  J'apprend actuellement le développement backend avancé 
+-  En apprentissage continu sur le développement backend avancé 
 -  Je cherche à collaborer sur des projets web modernes
 -  Disponible pour echanger sur javascript et les API REST
 -  Pose moi des questions sur Javascript et Express.js
