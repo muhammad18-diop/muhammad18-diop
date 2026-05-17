@@ -19,17 +19,16 @@ Je travaille principalement avec JavaScript, Node.js et Express.js  pour dévelo
 [![](https://komarev.com/ghpvc/?username=muhammad18-diop&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
+
 **muhammad18-diop/muhammad18-diop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Je travaille actuellement sur des projets web avec node js et express
+- 🌱 J'apprend actuellement le développement backend avancé 
+- 👯 Je cherche à collaborer sur des projets web modernes
+- 🤔 Disponible pour echanger sur javascript et les API REST
+- 💬 Pose moi des questions sur Javascript et Express.js
+- 📫 Contact: nabidiop18@gmail.com
+- ⚡ Objectif: Devenir développeur full-stack confirmé
+
